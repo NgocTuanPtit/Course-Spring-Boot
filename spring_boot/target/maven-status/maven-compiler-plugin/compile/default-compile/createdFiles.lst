@@ -1,0 +1,9 @@
+com\tony_funny\entity\RoleEntity.class
+com\tony_funny\entity\NewEntity.class
+com\tony_funny\filter\CORSFilter.class
+com\tony_funny\entity\UserEntity.class
+com\tony_funny\entity\BaseEntity.class
+com\tony_funny\api\NewAPI.class
+com\tony_funny\dto\NewDTO.class
+Application\Application.class
+com\tony_funny\entity\CategoryEntity.class
